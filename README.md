@@ -2,7 +2,7 @@
 ===
 Votre mission si vous l'acceptez  est de créer un quiz, vous pouvez vous inspirer du design suivant:
 
-![Design](./img/design_projet-1.png)
+![Design](design_projet-1.png)
 
 # Instructions:
 + vous devrez faire le HTML & le CSS
