@@ -1,0 +1,36 @@
+html {
+  width: auto;
+  height: 100%;
+}
+header {
+  width: auto;
+  height: 200px;
+}
+body {
+  height: 50%;
+}
+.container {
+  text-align: center;
+}
+.col-lg-6 {
+  height: 50px;
+  border: 1px solid;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+button {
+  width: 400px;
+}
+.teub {
+  border-color: inherit;
+}
+.bout1 {
+  float: left;
+}
+.bout2 {
+  float: right;
+}
